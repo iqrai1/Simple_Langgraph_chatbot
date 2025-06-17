@@ -10,9 +10,9 @@ This project demonstrates the implementation of a simple chatbot using the **Lan
 
 ## Technologies
 
-- **Python**: The primary programming language.
+- **Python**: The primary programming language
 - **LangGraph**: For managing the flow of conversation through a state machine.
-- **OpenAI GPT-4**: For generating natural language responses.
+- **OpenAI GPT-4**: For generating natural language responses
 - **Groq API**: Additional API integration for enhanced chatbot capabilities.
 - **Dotenv**: For loading environment variables.
 
